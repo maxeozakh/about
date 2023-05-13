@@ -4,6 +4,9 @@
 
 diary app designed to generate insights based on provided data about daily events
 
+app on the beta test stage now https://testflight.apple.com/join/VfiZHq17
+
+
 ![demo](https://raw.githubusercontent.com/maxeozakh/endi/main/example.png)
 
 ---
