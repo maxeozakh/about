@@ -1,6 +1,6 @@
 # projects
 
-## [Endi](https://github.com/maxeozakh/endi)
+## [Endy](https://github.com/maxeozakh/endy)
 
 diary app designed to generate insights based on provided data about daily events
 
