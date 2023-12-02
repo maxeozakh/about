@@ -1,7 +1,6 @@
 # projects
 
 ## [Endy](https://github.com/maxeozakh/endy)
-[App Store](https://apps.apple.com/app/id6449088502)
 
 diary app designed to generate insights based on provided data about daily events
 
